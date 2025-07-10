@@ -1,6 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://pdrake:mjJPMtUASLB4uFZj@cocktaildb.ejlcrtl.mongodb.net/?retryWrites=true&w=majority&appName=CocktailDb
-      database: CocktailDb
-      auto-index-creation: true
