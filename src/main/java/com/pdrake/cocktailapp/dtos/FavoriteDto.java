@@ -24,5 +24,4 @@ public class FavoriteDto {
         this.cocktailData = cocktailData;
         this.imageUrl = imageUrl;
     }
-
 }
